@@ -5,7 +5,6 @@ contracts/target/
 contracts/**/test_snapshots/
 contracts/cobertura.xml
 dist
-.env
 .next
 .cargo-home/
 .cargo-target/
@@ -19,3 +18,4 @@ pr.md
 checks.md
 .claude
 .kiro/
+config.bat
